@@ -52,4 +52,4 @@ jobs:
           app-name: 'APSS-node-app'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B9BC6A3DB4AD4C17B7CA5248A187324A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2641568B05F144DBB75944D13DE4405D }}
